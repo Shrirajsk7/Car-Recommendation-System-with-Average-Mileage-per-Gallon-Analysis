@@ -1,2 +1,4 @@
 # Car-Recommendation-System-with-Average-Mileage-per-Gallon-Analysis
-Car Recommendation System with Average Mileage per Gallon Analysis using R
+I created a web application to help consumers analyze car fuel efficiency and choose a car based on the manufactured company, engine-size, and class of vehicle. I found a dataset on fueleconomy.gov containing fuel economy data from 1999 to 2008 for 38 popular car models called "mpg." Using the ggplot2 plotting package in R, I created the application to create publication-quality plots with minimal adjustments. The "mpg" dataset includes information about the manufacturer, model, engine size, year, number of cylinders, type of transmission, drivetrain, city/hwy mpg, fuel type, and vehicle class. The dataset lists 15 car-making companies, such as Audi, Chevrolet, Dodge, Ford, Honda, Hyundai, Jeep, Land rover, Lincoln, Mercury, Nissan, Pontiac, Subaru, Toyota, and Volkswagen.
+
+Hosted on : https://rproject-0756727.shinyapps.io/Analysisofmpgdataset/
